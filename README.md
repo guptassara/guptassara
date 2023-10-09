@@ -1,6 +1,3 @@
-
-
-
 # Welcome to My GitHub Profile! 🚀
 
 ## About Me
@@ -15,8 +12,6 @@
 
 💡 **Languages**:   I have knowledge in a variety of programming languages, including C, C++, and Java.
 
-
-
 ## Connect with Me
 
 🌐 Feel free to explore my repositories, check out my projects, and provide feedback. I'm always open to suggestions and learning from others. If you have any questions, ideas, or just want to chat about tech, don't hesitate to reach out to me:
@@ -24,7 +19,7 @@
 - 📧 Email: [gupta.ssara@gmail.com](mailto:gupta.ssara@gmail.com)
 - 💬 LinkedIn: [ssara gupta](https://www.linkedin.com/in/ssara-gupta-1711a6225/)
 
-## Let's Code Together!
+## Let's Code Together
 
 🚀 Join me on this exciting journey of exploration, innovation, and continuous learning. I'm excited to connect with like-minded individuals, so let's collaborate, build amazing things, and make the tech world a better place, one line of code at a time!
 
